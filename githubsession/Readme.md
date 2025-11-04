@@ -14,10 +14,3 @@ Example
 
 1. To mark attendance for Yashvardhan Rawat, create `yashvardhanrawat.txt` in this folder.
 2. Optionally add the date inside the file, e.g. `2025-10-26`.
-
-Notes
-
-- Keep the filename consistent with your roster name so mentors can track attendance automatically or manually.
-- If you have a special character in your name, use a simplified ASCII version (e.g., remove accents) and inform the mentor.
-
-If you'd like, I can add a small script to validate that attendance files are present for a given date or generate a simple attendance log from the files.
